@@ -17,5 +17,5 @@ This project uses OpenAI GPT to generate search-optimized metadata keywords (in 
 This project uses Python on Google Colab
 
 ---
-##Project Design Overview
+## Project Design Overview
 ![Project Design](./project-design.png)
