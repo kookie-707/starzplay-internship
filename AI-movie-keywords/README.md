@@ -16,3 +16,6 @@ This project uses OpenAI GPT to generate search-optimized metadata keywords (in 
 ## Requirements
 This project uses Python on Google Colab
 
+---
+
+![Project Design](./AI-movie-keywords/project-design.png)
