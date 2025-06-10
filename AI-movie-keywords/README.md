@@ -18,4 +18,4 @@ This project uses Python on Google Colab
 
 ---
 
-![Project Design](./AI-movie-keywords/project-design.png)
+![Project Design](./project-design.png)
