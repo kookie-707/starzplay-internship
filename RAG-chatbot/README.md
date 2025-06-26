@@ -2,30 +2,36 @@
 
 ## 1. Web Scraper (FAQ Extractor)
 
-Using **Selenium** and **BeautifulSoup**, I created a scraper that:
-- Visits [starzplay.com/en/faq](https://starzplay.com/en/faq)
-- Extracts questions and answers from each FAQ tab
-- Saves the data into:
-  - `starzplay_faq.csv`
-  - `starzplay_faq.txt`
+A Python-based web scraper that extracts all frequently asked questions and answers from [starzplay.com/en/faq](https://starzplay.com/en/faq), organised by category tabs.
 
-**Technologies Used:**
-- Python (Colab)
-- Selenium (headless Chrome)
-- BeautifulSoup
+### Features
+- Extracts all FAQ questions and answers from each tab
+- Bypasses bot protection using `undetected-chromedriver`
+- Mimics real user behaviour with `selenium-stealth`
+- Saves output to:
+  - `starzplay_faq.csv` (structured table format)
+  - `starzplay_faq.txt` (plain text Q&A)
+
+---
+
+### Technologies Used
+- Python (run locally)
+- Selenium (via `undetected-chromedriver`)
+- Selenium Stealth
+- BeautifulSoup4
 - Pandas
 
 ---
 
 ## 2. RAG Chatbot (Retrieval-Augmented Generation)
 
-I implemented a **chatbot** that:
+### Features
 - Loads the `starzplay_faq.csv` from **Google Drive**
 - Uses **SentenceTransformer** to create local embeddings
 - Stores embeddings in **Pinecone Vector Database**
 - On query, retrieves relevant answers and uses **OpenAI GPT-4.1-nano** to generate a helpful, focused response
 
-**Tech Stack:**
+### Tech Stack
 - LangChain
 - SentenceTransformers
 - Pinecone
@@ -56,7 +62,7 @@ Handles incoming user queries via chat, performs semantic search using OpenAI em
 
 ## Files
 
-- `faq_scraper.py` – Colab-compatible scraper code for collecting FAQ data
+- `faq_scraper.py` – Python scraper script for collecting FAQ data from starzplay.com/en/faq
 - `RAG_Chatbot.ipynb` – Colab-compatible chatbot with embedded FAQ knowledge
 - `starzplay_faq.csv` – Output file from the scraper containing structured Q&A
 - `starzplay_faq.txt` – Text-based version for readability
