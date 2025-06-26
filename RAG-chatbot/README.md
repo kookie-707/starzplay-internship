@@ -57,7 +57,7 @@ Handles incoming user queries via chat, performs semantic search using OpenAI em
 ## Files
 
 - `faq_scraper.py` – Colab-compatible scraper code for collecting FAQ data
-- `rag_chatbot.py` – Colab-compatible chatbot with embedded FAQ knowledge
+- `RAG_Chatbot.ipynb` – Colab-compatible chatbot with embedded FAQ knowledge
 - `starzplay_faq.csv` – Output file from the scraper containing structured Q&A
 - `starzplay_faq.txt` – Text-based version for readability
 
