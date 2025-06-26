@@ -1,0 +1,1023 @@
+[Tab: BILLING]
+Q: What will happen to my payment method?
+A: Your payment method will remain the same. The only change will be the new price for STARZPLAY MAX.
+
+[Tab: BILLING]
+Q: Will my current benefits change?
+A: No, you’ll continue enjoying all the current benefits along with the added benefits brought part of your new STARZPLAY MAX subscription.
+
+[Tab: BILLING]
+Q: Can I switch back to my old subscription after the change?
+A: No, once you are migrated to STARZPLAY MAX, you cannot revert to the legacy subscription.
+For any further questions, please contact support. We're here to help!
+
+[Tab: BILLING]
+Q: Will I receive a refund if I cancel before the price change?
+A: If you cancel your subscription before the renewal, you will not be charged the new price. Refunds are subject to the standard terms and conditions.
+
+[Tab: BILLING]
+Q: Can I cancel my subscription before the price change?
+A: Yes, you can cancel your subscription before your renewal. After canceling, you will not be charged the new price.
+
+[Tab: BILLING]
+Q: What if I subscribe during the notice period?
+A: You’ll receive a notice on your first renewal, and the migration to STARZPLAY MAX will happen on your second renewal.
+
+[Tab: BILLING]
+Q: What’s changing with my STARZPLAY Sports subscription?
+A: If you are active on STARZPLAY Sports or Cricket Monthly subscription through Google IAP or Credit Card method of payment, your subscription will be automatically upgraded to STARZPLAY MAX after the notice period commences, where you will be charged with the new price on your next renewal.
+
+[Tab: BILLING]
+Q: When will the change happen?
+A: The change will happen on your second renewal after receiving the notice. You’ll continue enjoying STARZPLAY MAX during the 30-day notice period.
+
+[Tab: BILLING]
+Q: How will I be notified?
+A: - Renewing during the notice period (Jan 10–Feb 9) will get an immediate email notice.
+- New subscriptions during the notice period will get a notice on the first renewal, with the migration happening on the second consecutive renewal.
+
+[Tab: BILLING]
+Q: What if I have multiple subscriptions at the same time?
+A: If you have STARZPLAY Sports & Cricket or STARZPLAY Sports & STARAZPLAY Entertainment as individual subscriptions, on the same payment method, both will be replaced by STARZPLAY MAX.
+If you have STARZPLAY Sprots and Cricket as individual subscriptions, on the same payment method, both will be replaced by STARZPLAY MAX.
+If one of these subscriptions are through Apple IAP, or payment methods other than Credit Card or Google IAP, you will need to deactivate the other subscription to avoid extra charges on the other subscription, as it would be already included in your STARZPLAY MAX subscrition.
+
+[Tab: BILLING]
+Q: What happens to my discount?
+A: If you were benefiting from a discount on your STARZPLAY Sports subscription, it will now be applied to the new STARZPLAY MAX pricing as follows:
+- For percentage-based discounts, the same percentage will be applied to the new price.
+- For fixed-amount discounts, they will be replaced with a 50% discount on the new price, valid for a lifetime.
+
+[Tab: BILLING]
+Q: Will I get early access to the new subscription?
+A: Yes, you’ll get early access to STARZPLAY MAX during the 30-day notice period before the price change.
+
+[Tab: BILLING]
+Q: What’s the notice period?
+A: If you have subscribed prior to January 10th, then your 30-day notice period starts from your subscription's renewal date between January 10th till February 9th.
+If you have subscribed between January 10th till February 9th, then your 30-day notice period starts from your subscription's renewal date between February 9th till March 11th.
+
+[Tab: BILLING]
+Q: Which payment methods are affected?
+A: The change applies to users subscribing via Credit Cards/PayPal, and Google In-App Purchases.
+
+[Tab: BILLING]
+Q: How will I be charged after the change?
+A: After the notice period, you’ll be charged the new STARZPLAY MAX price, with any applicable discounts applied.
+
+[Tab: BILLING]
+Q: Which payment methods are affected?
+A: The change applies to users subscribing via Credit Cards/PayPal, and Google In-App Purchases.
+
+[Tab: BILLING]
+Q: What if I subscribe during the notice period?
+A: You’ll receive a notice on your first renewal, and the migration to STARZPLAY MAX will happen on your second renewal.
+
+[Tab: BILLING]
+Q: Can I cancel my subscription before the price change?
+A: Yes, you can cancel your subscription before your renewal. After canceling, you will not be charged the new price.
+
+[Tab: BILLING]
+Q: Will my current benefits change?
+A: No, you’ll continue enjoying all the current benefits along with the added benefits brought as part of your new STARZPLAY MAX subscription.
+
+[Tab: BILLING]
+Q: Can I switch back to my old subscription after the change?
+A: No, once you are migrated to STARZPLAY MAX, you cannot revert to the legacy subscription.
+For any further questions, please contact support. We're here to help!
+
+[Tab: BILLING]
+Q: Will I receive a refund if I cancel before the price change?
+A: If you cancel your subscription before the renewal, you will not be charged the new price. Refunds are subject to the standard terms and conditions.
+
+[Tab: BILLING]
+Q: How will I be charged after the change?
+A: After the notice period, you’ll be charged the new STARZPLAY MAX price, with any applicable discounts applied.
+
+[Tab: BILLING]
+Q: What will happen to my payment method?
+A: Your payment method will remain the same. The only change will be the new price for STARZPLAY MAX.
+
+[Tab: BILLING]
+Q: When will the change happen?
+A: The change will happen on your second renewal after receiving the notice. You’ll continue enjoying STARZPLAY MAX during the 30-day notice period.
+
+[Tab: BILLING]
+Q: What if I have multiple subscriptions at the same time?
+A: If you have STARZPLAY Sports & Cricket or STARZPLAY Sports & STARAZPLAY Entertainment as individual subscriptions, on the same payment method, both will be replaced by STARZPLAY MAX.
+If you have STARZPLAY Sports and Cricket as individual subscriptions, on the same payment method, both will be replaced by STARZPLAY MAX.
+If one of these subscriptions is through Apple IAP, or payment methods other than Credit Card or Google IAP, you will need to deactivate the other subscription to avoid extra charges on the other subscription, as it would be already included in your STARZPLAY MAX subscription.
+
+[Tab: BILLING]
+Q: What happens to my discount?
+A: If you were benefiting from a discount on your STARZPLAY Sports subscription, it will now be applied to the new STARZPLAY MAX pricing as follows:
+- For percentage-based discounts, the same percentage will be applied to the new price.
+- For fixed-amount discounts, they will be replaced with a 50% discount on the new price, valid for a lifetime.
+
+[Tab: BILLING]
+Q: Will I get early access to the new subscription?
+A: Yes, you’ll get early access to STARZPLAY MAX during the 30-day notice period before the price change.
+
+[Tab: BILLING]
+Q: What’s the notice period?
+A: If you have subscribed prior to January 10th, then your 30-day notice period starts from your subscription's renewal date between January 10th till February 9th.
+If you have subscribed between January 10th till February 9th, then your 30-day notice period starts from your subscription's renewal date between February 9th till March 11th.
+
+[Tab: BILLING]
+Q: What’s changing with my STARZPLAY Sports subscription?
+A: If you are active on STARZPLAY Sports or Cricket Monthly subscription through Google IAP or Credit Card method of payment, your subscription will be automatically upgraded to STARZPLAY MAX after the notice period commences, where you will be charged with the new price on your next renewal.
+
+[Tab: BILLING]
+Q: How will I be notified?
+A: - Renewing during the notice period (Jan 10–Feb 9) will get an immediate email notice.
+- New subscriptions during the notice period will get a notice on the first renewal, with the migration happening on the second consecutive renewal.
+
+[Tab: BILLING]
+Q: When will VAT be implemented and what will be the rates?
+A: VAT (Value added tax) is applicable in GCC countries as per the below:
+UAE: 5% - applicable from 1 January 2018
+Bahrain: 10% - applicable from 1 January 2022
+KSA: 15% - applicable from 1 July 2020
+
+[Tab: BILLING]
+Q: How do I change or update my payment method?
+A: Sign in to STARZPLAY from a desktop or mobile web browser. Navigate to Settings>Payments and change your payment method.
+
+[Tab: BILLING]
+Q: Can I subscribe using my iTunes account?
+A: Yep! Once you've signed up to STARZPLAY, select the Apple in-app payment method and follow the on-screen instructions. You will be asked to enter your Apple iTunes account details which may differ from your STARZPLAY username and password.
+
+[Tab: BILLING]
+Q: How do I know how much VAT have I paid?
+A: You can view your monthly Tax Invoice in Settings>Payments>Payment History.
+
+[Tab: BILLING]
+Q: If my method of payment is a telecom operator (Etisalat / du / STC / Mobily / Zain or else), will I be charged VAT more than once?
+A: VAT is only payable once on each subscription and in this case will be collected by your mobile operator.
+
+[Tab: BILLING]
+Q: I subscribe through my mobile operator but I notice there is a different price if I pay through my device's App Store. Why is this?
+A: We offer preferential rates to some of our mobile operators. If you would like to benefit from these reduced subscription fees, sign in to STARZPLAY from a desktop or mobile web browser. Navigate to Settings>Payments and change your payment method.
+Remember to cancel your in-app payment method first through your device's App Store else you will be charged twice.
+
+[Tab: BILLING]
+Q: What subscription payment methods are available?
+A: Credit card (Visa and MasterCard)
+STARZPLAY Voucher
+Google Wallet via Play Store
+Apple In-App via iTunes
+You can also pay via your local mobile operator:
+UAE - du, Etisalat
+KSA - stc, Mobily, Zain
+Bahrain - stc
+Kuwait - stc, Ooredoo, Zain
+Tunisia - Ooredoo
+Qatar - Ooredoo
+Egypt - Vodafone
+Morocco - Maroc Telecom
+Iraq - Zain
+Oman - Omantel, Ooredoo
+
+[Tab: BILLING]
+Q: How do I redeem my STARZPLAY voucher?
+A: Sign in to STARZPLAY and navigate to Settings>Payments>Change Payment Details>Other Payment Options. Select Redeem Your STARZPLAY voucher.
+Enter your voucher code and click CONTINUE. Your subscription should start immediately.
+When your voucher expires, your service will automatically deactivate. To prevent this, enter a new voucher code or change your payment details, otherwise any previously entered method of payment will be charged.
+
+[Tab: BILLING]
+Q: How does billing work if I subscribe using my Du or Etisalat mobile plan?
+A: On a prepaid plan? Your mobile operator will debit AED 40 from your credit balance at the start of each monthly STARZPLAY subscription period. Just keep your credit topped up each month to keep your subscription going.
+For postpaid plans, your mobile operator will charge AED 40 to your account at the start of each monthly STARZPLAY subscription period. This will then be collected by your mobile operator as usual.
+
+[Tab: BILLING]
+Q: Do I have to pay for downloading the iOS or Android app?
+A: The app is free to download and install, but to watch content via the app you will need to subscribe to our service. Don't forget! - You can sign-up to STARZPLAY and enjoy a 7 day free trial on your subscription.
+
+[Tab: BILLING]
+Q: How much does it cost to stream content over mobile data?
+A: This depends on your mobile data service provider. You may incur additional charges from your provider if you exceed your data package limit.
+We recommend subscribers use WiFi whereever possible, or set a data limit on their devices to monitor usage.
+
+[Tab: BILLING]
+Q: Why do I get an error message when I enter my credit card details?
+A: Check the following:
+Did you input the card number correctly?
+Is the card expiry date still valid?
+Did you enter the 3-digit CVV correctly?
+Is your card VISA or MasterCard?
+If you answered yes to all the above, then please check whether your issuing bank allows online transactions. If not, you will need to register an alternative card. If you continue to have problems, please contact support@starzplay.com
+
+[Tab: BILLING]
+Q: Which STARZPLAY subscriptions are subject to VAT?
+A: All STARZPLAY subscriptions are subject to VAT at the relevant applicable rate.
+
+[Tab: BILLING]
+Q: I haven't used the service much. Can I get a refund?
+A: We don't provide refunds in these circumstances but you can cancel your subscription at any time without penalty. Navigate to Settings>Payments and select Deactivate subscription. Your subscription will not be renewed but you can continue to watch STARZPLAY until the end of your billing cycle.
+NOTE: For Android or iOS users who use Google Play or iTunes payment method, the subcription needs to be deactivated through the Google Play Store or Apple App Store.
+
+[Tab: BILLING]
+Q: How do I cancel my Apple in-app subscription?
+A: This can only be done on an iOS device or a computer installed with iTunes.
+Open iTunes and click on the iTunes Store tab.
+Go to Manage Subscription for STARZPLAY and select Edit.
+Under Automatic Renewal select Off and click Done.
+On the confirmation window, select Turn Off.
+For further instructions, you can even visit the following link: https://support.apple.com/en-us/HT202039
+
+[Tab: BILLING]
+Q: How do I subscribe using my mobile or telecom operator?
+A: Here's a step-by-step guide for new subscribers:
+Sign-up with STARZPLAY
+Choose your preferred mobile or telecom operator to activate your account
+Enter your mobile number.
+You will receive a verification code to your mobile number
+Enter the verification code received to confirm your subscription
+NOTE : For existing subscribers, just login to STARZPLAY and go to settings > and follow the steps from 2 to 5
+
+[Tab: BILLING]
+Q: How does billing work if I subscribe using my mobile plan?
+A: You can sign-up to STARZPLAY'S monthly or weekly subscription plan through your ongoing mobile plan.
+For prepaid plan users - Your mobile operator will debit the agreed amount from your credit balance at the start of each weekly or monthly STARZPLAY subscription period. Keep your credit topped up every week or month to keep your subscription going.
+For postpaid plan users - Your mobile operator will charge the agreed amount to your account at the start of each weekly or monthly STARZPLAY subscription period. This will then be collected by your mobile operator as usual.
+
+[Tab: BILLING]
+Q: How does billing work?
+A: We know we're awesome but if you need convincing & are new to the platform, our 7-day free trial should do the trick. At the end of your free trial, we will bill your chosen payment method - this date marks the start of your billing cycle. You can cancel your subscription at any time.
+
+[Tab: BILLING]
+Q: What is VAT?
+A: VAT (Value Added Tax) is a tax on the consumption or use of goods and services which is levied at the point of sale.
+
+[Tab: BILLING]
+Q: How do I change from in-app payment to another method?
+A: First, cancel your in-app payment method through your device's App Store else you will be charged twice.
+Next, sign in to STARZPLAY from a desktop or mobile web browser. Navigate to Settings>Payments and select your new payment method.
+
+[Tab: MY ACCOUNT]
+Q: Can I customize the names and icons of each profile?
+A: Yes, you can customize both the names and icons for each profile.
+
+[Tab: MY ACCOUNT]
+Q: Can I delete a profile?
+A: Yes, you can delete a profile by going to the Profile section and selecting 'Delete Profile'.
+
+[Tab: MY ACCOUNT]
+Q: How do I edit a profile?
+A: To edit a profile, go to the Profile section, select the profile you want to edit, and update the necessary details.
+
+[Tab: MY ACCOUNT]
+Q: How do I manage profiles?
+A: You can manage profiles by going to the Profile section and selecting 'Manage Profiles'. Here, you can edit, delete, or switch between profiles.
+
+[Tab: MY ACCOUNT]
+Q: How do I recover a deleted profile?
+A: Unfortunately, deleted profiles cannot be recovered. You will need to create a new profile.
+
+[Tab: MY ACCOUNT]
+Q: What happens if I delete a profile?
+A: Deleting a profile will remove all its settings and history permanently.
+
+[Tab: MY ACCOUNT]
+Q: How do I delete a profile?
+A: To delete a profile, go to the Profile section, select the profile you want to delete, and click 'Delete Profile'. Confirm the deletion.
+
+[Tab: MY ACCOUNT]
+Q: Can I merge profiles?
+A: No, profiles cannot be merged. You will need to manually transfer any desired settings.
+
+[Tab: MY ACCOUNT]
+Q: Will profiles sync across all my devices?
+A: Yes, profiles will sync across all devices connected to the same account.
+
+[Tab: MY ACCOUNT]
+Q: Will my watchlist be shared across profiles?
+A: No, each profile has its own watchlist.
+
+[Tab: MY ACCOUNT]
+Q: Can I see the activity history of each profile?
+A: Yes, you can view the activity history for each profile separately.
+
+[Tab: MY ACCOUNT]
+Q: Can profiles have different subscription plans?
+A: No, all profiles under the same account share the same subscription plan.
+
+[Tab: MY ACCOUNT]
+Q: What happens to profiles if I cancel my subscription?
+A: If you cancel your subscription, all profiles and their data will be saved.
+
+[Tab: MY ACCOUNT]
+Q: Will adding multiple profiles affect my subscription cost?
+A: No, adding multiple profiles will not affect your subscription cost.
+
+[Tab: MY ACCOUNT]
+Q: What happens to a profile�s data if it�s not used for a long time?
+A: A profile�s data remains intact regardless of its usage frequency.
+
+[Tab: MY ACCOUNT]
+Q: Will adding multiple profiles affect my streaming quality?
+A: No, adding multiple profiles will not affect your streaming quality. Each profile operates independently.
+
+[Tab: MY ACCOUNT]
+Q: Can I switch between profiles?
+A: Yes, you can easily switch between profiles by selecting the desired profile from the Profile section.
+
+[Tab: MY ACCOUNT]
+Q: Can I set up a kid�s profile with restricted content?
+A: Yes, you can create a kid�s profile with restricted content appropriate for children.
+
+[Tab: MY ACCOUNT]
+Q: Will each profile have its own viewing history?
+A: Yes, each profile will have its own viewing history, which is not shared with other profiles.
+
+[Tab: MY ACCOUNT]
+Q: What is the Multiple Profiles feature?
+A: The Multiple Profiles feature allows users to create separate profiles for different members of the household, each with its own viewing preferences and settings.
+
+[Tab: MY ACCOUNT]
+Q: How many profiles can I create?
+A: You can create up to 5 profiles per account.
+
+[Tab: MY ACCOUNT]
+Q: Can I restrict access to specific profiles?
+A: Yes, you can set PINs or passwords to restrict access to specific profiles.
+
+[Tab: MY ACCOUNT]
+Q: Can I set a profile PIN for security?
+A: Yes, you can set a PIN in the Profile settings to restrict access.
+
+[Tab: MY ACCOUNT]
+Q: Can I set different parental controls for each profile?
+A: Yes, you can set unique parental controls for each profile.
+
+[Tab: MY ACCOUNT]
+Q: Can I set different viewing preferences for each profile?
+A: Yes, you can set different viewing preferences, such as language and content restrictions, for each profile.
+
+[Tab: MY ACCOUNT]
+Q: Can I have different recommendations for each profile?
+A: Yes, each profile will receive personalized recommendations based on its own viewing habits.
+
+[Tab: MY ACCOUNT]
+Q: Can I set different languages for each profile?
+A: Yes, you can set a preferred language for each profile individually.
+
+[Tab: MY ACCOUNT]
+Q: Can I transfer a profile to another account?
+A: No, profiles cannot be transferred between different accounts.
+
+[Tab: MY ACCOUNT]
+Q: How do I create a new profile?
+A: To create a new profile, go to the Profile section and click on 'Add Profile'. Follow the prompts to set up the new profile.
+
+[Tab: MY ACCOUNT]
+Q: How to Delete Your Account?
+A: To delete your account and data, visit our contact us page or click
+here
+(
+https://starzplay.com/en/contact
+).
+
+[Tab: MY ACCOUNT]
+Q: What is "My List," and what do I use it for?
+A: My List displays all the content you have added to the list, you plan to watch.
+
+[Tab: MY ACCOUNT]
+Q: I forgot my password. How can I reset it?
+A: 1. Visit starzplay.com/login
+2. Click on 'Forgot Password'.
+3. Follow the steps to reset your password.
+
+[Tab: MY ACCOUNT]
+Q: How do I reactivate my STARZPLAY account?
+A: Thank you for coming back! Login with your existing account details, and head to Settings where you can reactivate your account by entering a valid payment method.
+
+[Tab: MY ACCOUNT]
+Q: Can you explain what Settings are?
+A: This where all your account details and preferences live. Here you can change language settings, payment options, parental controls, registered devices and more. You can also cancel or reactivate your account.
+
+[Tab: MY ACCOUNT]
+Q: How can I control how much data STARZPLAY uses?
+A: Our superhero technology automatically delivers the highest quality stream according to your device capabilities and internet speed - but it doesn't let  you set a data limit.
+To reduce data usage, you can manually select the streaming quality in Settings. Or better still, find some WiFi.
+
+[Tab: MY ACCOUNT]
+Q: I tried to register for an account, but got the error message "Email already exists."
+A: This means that there is already an account with this email address.
+If you’ve forgotten your password, select the ‘forgot password’ link at the login page and follow the on-screen instructions.
+You will receive a reset password email with a link that expires in two hours. If you don’t receive it, check your spam folder.
+
+[Tab: MY ACCOUNT]
+Q: How do I set parental controls?
+A: Login and select Settings>Parental Control. Here you can choose the right setting according to age.
+
+[Tab: MY ACCOUNT]
+Q: How do I delete a registered device on STARZPLAY?
+A: Login and select Settings>Devices to see all the registered devices on your account. Select the relevant ‘Delete’ icon to remove the chosen device. You can delete one registered device every 30 days.
+
+[Tab: MY ACCOUNT]
+Q: How do I de-activate my STARZPLAY account?
+A: Login with your existing account details and head over to Settings>Payment where you can deactivate your account.
+
+[Tab: MY ACCOUNT]
+Q: How do I change my password?
+A: Go to Settings>Profile and follow the on-screen instructions. If you’ve forgotten your password, select the ‘forgot password’ link at the login page and follow the instructions.
+
+[Tab: MY ACCOUNT]
+Q: How can I keep my STARZPLAY account secure?
+A: Security is a serious matter and all your information is kept confidential and handled securely. As an added level of security we recommend subscribers use a strong password, change it frequently and never share it with anyone. We also suggest you keep your device safe, and report any suspicious activity on your account to us immediately via our Contact page.
+
+[Tab: MY ACCOUNT]
+Q: How do I remove TV shows and movies from "My List"?
+A: It’s simple. If you are on the title description page, just click on the ‘My List’ button. It will change to show you whether the title has been added or removed.
+If you are on the My List page:
+MOBILE APP
+Click ‘Edit’
+Select the title(s) to remove
+Click ‘Delete’
+BROWSER
+Hover over the title to remove
+Click ‘Delete’
+
+[Tab: MY ACCOUNT]
+Q: How do I share my activity on STARZPLAY with my friends or family?
+A: Just click the Share icon and choose a social media option. Here you can share what you’re watching – and what you have to say about it!
+
+[Tab: MY ACCOUNT]
+Q: How do I sign up for a STARZPLAY account?
+A: Signing up is easy but can only be done through a browser or our app, sorry. Just follow the on-screen instructions to create your account and set up your payment method. Once you've signed up you can then login on any supported device.
+
+[Tab: FREE TV]
+Q: Are "Free with Ads", "STARZPLAY Entertainment, STARZPLAY Ultimate, and STARZPLAY Sports," and "Store" content all available in the same library?
+A: Yes, all content is available within the STARZ ON platform, but "Free with Ads" content is in a separate section from the premium and store content. This separation makes it easier to find the content you want.
+
+[Tab: FREE TV]
+Q: How do I switch between "Free with Ads," "STARZPLAY Entertainment, STARZPLAY Ultimate, or STARZPLAY Sports," and "Store" sections on the platform?
+A: You can switch between these sections by using the navigation menu options in the STARZ ON app or website.
+
+[Tab: FREE TV]
+Q: Is "Free with Ads" available in all regions?
+A: "Free with Ads" is available in the countries within the MENA region where STARZ ON operates. However, the availability of specific content in different countries may vary due to content licensing and agreements. We strive to make as much content available as possible, but some restrictions may apply based on regional agreements.
+
+[Tab: FREE TV]
+Q: Can I provide feedback or report issues with ads in "Free with Ads" content?
+A: Yes, you can provide feedback or report issues with ads in "Free with Ads" content through the STARZ ON app or website by contacting our customer support team at Support@starzplay.com.
+
+[Tab: FREE TV]
+Q: Can I watch "Free with Ads" content while traveling internationally?
+A: "Free with Ads" content can be accessed while traveling internationally, as long as you are within the countries where STARZ ON operates. However, the availability of specific content may vary in these countries due to content licensing and agreements.
+
+[Tab: FREE TV]
+Q: Can I switch between "Free with Ads" and "STARZPLAY Entertainment, STARZPLAY Ultimate, or STARZPLAY Sports" without losing my watchlist?
+A: Yes, your watchlist will be maintained even when switching between sections.
+
+[Tab: FREE TV]
+Q: Can I continue watching "Free with Ads" content after deactivating or canceling my subscription?
+A: Yes, you can still enjoy "Free with Ads" content even if you've deactivated or canceled your subscription. This content is available to users with or without an account.
+
+[Tab: FREE TV]
+Q: Do I need to enter payment information to access "Free with Ads" content?
+A: No, you don't need to enter payment information to access "Free with Ads" content.
+
+[Tab: FREE TV]
+Q: How do I access exclusive content in the "STARZPLAY Entertainment, STARZPLAY Ultimate, or STARZPLAY Sports" section?
+A: To access exclusive content in the "STARZPLAY Entertainment, STARZPLAY Ultimate, or STARZPLAY Sports" & "Store", you can visit the dedicated sections from the navigation menu on the apps or website. Please note that you'll need to have an active account and the respective subscription to play the exclusive content.
+
+[Tab: FREE TV]
+Q: How do I know if I'm watching "Free with Ads" content or "STARZPLAY Entertainment, STARZPLAY Ultimate, or STARZPLAY Sports" content?
+A: You can easily identify "Free with Ads" content by checking the dedicated section within the platform. Additionally, look for a badge that indicates it's free to watch. This makes it simple to distinguish between "Free with Ads" and premium content while browsing.
+
+[Tab: FREE TV]
+Q: Can I add contents to mylist for "Free with Ads" content for later?
+A: You can add content to your watchlist for the "Free with Ads" content, for easy access.
+
+[Tab: FREE TV]
+Q: Is parental control available to filter content for younger viewers?
+A: Yes, age restrictions can be applied when you create an account and log in to the app. If you set age restrictions, the "Free with Ads" content page will filter and exclude content that is not suitable based on the selected age restrictions, ensuring a safe and age-appropriate viewing experience for users.
+
+[Tab: FREE TV]
+Q: Do I have to log in or sign up to access "Free with Ads" content?
+A: No, you can watch "Free with Ads" content without the need to log in or sign up. It's designed to be accessible to everyone, offering a hassle-free viewing experience.
+
+[Tab: FREE TV]
+Q: Will "Free with Ads" content have the same video quality as "STARZPLAY Entertainment, STARZPLAY Ultimate, or STARZPLAY Sports" or "Store" content?
+A: Yes, the video quality for "Free with Ads" content is expected to be the same as that of our premium offerings. We aim to provide a consistent and high-quality viewing experience across all our content.
+
+[Tab: FREE TV]
+Q: Can I rewind or fast forward through ads in "Free with Ads" content?
+A: Depending on the specific content and licensing, you may be able to rewind or fast forward through ads.
+
+[Tab: FREE TV]
+Q: Can I control the volume or mute ads in "Free with Ads" content?
+A: Yes, you can control the volume or mute ads in "Free with Ads" content using your device's controls.
+
+[Tab: FREE TV]
+Q: Are ads in "Free with Ads" content skippable, or do I have to watch them fully?
+A: Some ads may be skippable, while others may not be, depending on the specific content and licensing agreements.
+
+[Tab: FREE TV]
+Q: Can I still access my favorite "STARZPLAY Entertainment, STARZPLAY Ultimate, or STARZPLAY Sports" and "Store" content with the introduction of "Free with Ads"?
+A: Yes, you can access premium and store content separately, and it's not affected by the introduction of "Free with Ads".
+
+[Tab: FREE TV]
+Q: Will "Free with Ads" content include subtitles and audio options?
+A: Availability of subtitles and audio options may vary by content.
+
+[Tab: FREE TV]
+Q: Can I use "Free with Ads" content offline?
+A: No, 'Free with Ads' content is typically available for online streaming only. The download to device feature is supported for user who have created an account and logged in with it. However downloading the asset may vary depending on the content license and agreement.
+
+[Tab: FREE TV]
+Q: Are there any limits on how much "Free with Ads" content I can watch in a day?
+A: There is no set limit on how much "Free with Ads" content you can watch. So, you can enjoy watching the free with ads contents as much as you want.
+
+[Tab: FREE TV]
+Q: Will there be ads as part of the premium subscriptions "STARZPLAY Entertainment, STARZPLAY Ultimate, or STARZPLAY Sports" or "Store content"?
+A: No, premium subscriptions (e.g., STARZPLAY Entertainment, STARZPLAY Ultimate, STARZPLAY Sports) and "Store" content are ad-free.
+
+[Tab: FREE TV]
+Q: How does "Free with Ads" differ from "STARZPLAY Entertainment, STARZPLAY Ultimate, and STARZPLAY Sports" content or "Store" content?
+A: "Free with Ads" provides free access to selected content with ads, while "STARZPLAY Entertainment, STARZPLAY Ultimate, and STARZPLAY Sports" content and "Store" content require a paid subscription or individual purchases for the store contents.
+
+[Tab: FREE TV]
+Q: Will "Free with Ads" content always have ads, even if I have a "STARZPLAY Entertainment, STARZPLAY Ultimate, or STARZPLAY Sports" subscription or purchase/rent from the "Store"?
+A: Yes, "Free with Ads" content will always include ads, even if you have a paid subscription or purchase/rent from the "Store." It's important to note that "Free with Ads" content is in its dedicated section, ensuring it doesn't get mixed up with premium content, and you can easily distinguish between the two when browsing the platform.
+
+[Tab: FREE TV]
+Q: Is there a way to disable the ads in "Free with Ads" content?
+A: No, "Free with Ads" content includes ads. To enjoy content without ads, you can subscribe to one of our available premium subscriptions within our service, such as STARZPLAY Entertainment, STARZPLAY Ultimate, or STARZPLAY Sports.
+
+[Tab: FREE TV]
+Q: Can I watch "Free with Ads" content on multiple devices?
+A: Yes, "Free with Ads" content is available on various devices supported by STARZPLAY.
+
+[Tab: FREE TV]
+Q: How often will I see ads during "Free with Ads" content?
+A: The frequency of ads may vary depending on the specific content. Some content may have fewer ads, while others may have more.
+
+[Tab: FREE TV]
+Q: How long are ads in "Free with Ads" content typically?
+A: The duration of ads varries but will typically be of standard length (e.g., 15, 30, or 60 seconds).
+
+[Tab: FREE TV]
+Q: What is "Free with Ads" on STARZON?
+A: "Free with Ads" is a new feature on STARZON that allows users, with or without an account, to access selected content for free with ads.
+
+[Tab: STORE]
+Q: Can I access the rented/bought content on more than one device?
+A: Yes, the rented/bought contents are linked to your STARZPLAY account. You will be able to view the contents as long as you have logged in using the same account.
+
+[Tab: STORE]
+Q: What is the difference between Buy & Rent contents on STARZPLAY?
+A: When you buy a movie or a series, the content remains in your account, to watch it anytime and as many times you want.
+Rent provides you 30 days to start watching the content from the date of rental and 48 hours to finish from the time you have started watching.
+
+[Tab: STORE]
+Q: How to Rent or Buy a content?
+A: Launch the STARZPLAY app.
+Navigate to Store section.
+Click on the content you wish to rent/purchase. On the details page, select the option to buy or rent as applicable
+
+[Tab: STORE]
+Q: How can I pay to order a content?
+A: You can use one of the below options:
+Credit / Debit Cards
+Apple in App via iTunes
+Google in App via Playstore
+
+[Tab: STORE]
+Q: On which devices can I order a content from?
+A: You can order the content on your STARZPLAY account from your web browser or iOS and Apple TV devices or Android mobile and Android TV devices following the below instructions:
+Login to your STARZPLAY account
+Navigate to Store page
+Click on the desired content. On the details page, select the option to buy or rent as applicable
+Complete your order by paying using one of the supported payment options depending on your device
+Enjoy watching!
+
+[Tab: STORE]
+Q: Do I need a STARZPLAY account to order a content?
+A: Yes, you need a STARZPLAY account to buy or rent the contents. Login to your account to use this feature.
+
+[Tab: STORE]
+Q: Where can I find my order history?
+A: Login to your account and navigate to Settings page, you will find the order history under Purchase History section.
+
+[Tab: STORE]
+Q: Can I download rent or buy contents?
+A: Yes, you can download the rented or purchased content. However when you download the rented content, you will have access to the content only for 48hrs from the time of download.
+
+[Tab: CHANNELS]
+Q: What is the price of STARZPLAY Ultimate subscription?
+A: United Arab Emirates: AED 54.99
+Saudi Arabia: SAR 54.99
+Kuwait: KWD 4.60
+Qatar: QAT 54.99
+Oman: OMR 5.75
+Bahrain: BHD 5.65
+Egypt: EGP 199.99
+Morocco: MAD 54.99
+Algeria: USD 4.99
+Iraq: USD 5.99
+Jordan: JOD 4.99
+Lebanon: USD 6.99
+Tunisia: TND 15.99
+Djibouti: USD 9.99
+Libya: USD 9.99
+Palestine: USD 9.99
+Mauritania: USD 9.99
+Yemen: USD 9.99
+South Sudan: USD 9.99
+
+[Tab: CHANNELS]
+Q: What is STARZPLAY Ultimate?
+A: STARZPLAY Ultimate is a subscription package that will give you access to endless entertainment & exclusive live sport all in one in a reduced price
+STARZPLAY
+STARZPLAY Sports
+
+[Tab: CHANNELS]
+Q: How do I sign up?
+A: Go to starzplay.com. Click on Signup button
+Fill out the user details
+Choose your subscription
+Enter a payment method
+Enjoy watching
+
+[Tab: CHANNELS]
+Q: How to upgrade my subscription to STARZPLAY Ultimate?
+A: Visit the STARZPLAY website or app
+Login or Signup
+Go to settings page
+Click on the Activate button for STARZPLAY Ultimate
+Enter a payment method
+Enjoy watching
+Note: By upgrading to STARZPLAY Ultimate, the remaining period of your STARZPLAY or STARZPLAY Sports current subscription will be lost without a refund. A new subscription cycle will be started.
+
+[Tab: CHANNELS]
+Q: What payments options can be used to subscribe to STARZPLAY Ultimate?
+A: You can subscribe to STARZPLAY Ultimate using any one of the below options:
+On the website you can use credit / debit cards
+On Apple devices you can use Apple in App purchase as a payment option
+On Android devices you can use Google in App purchase as a payment option
+
+[Tab: CHANNELS]
+Q: How do I activate STARZPLAY Ultimate?
+A: Visit the STARZPLAY website or app
+- Login or Signup
+- Choose your subscription or go to settings page
+- Click on the Activate button for STARZPLAY Ultimate
+- Enter a payment method
+- Enjoy watching
+Note: If you are already subscribed to one of the existing subscriptions that are now part of STARZPLAY Ultimate, any standing discounts/promotions will be lost upon upgrading to STARZPLAY Ultimate and a new billing cycle will start.
+
+[Tab: CHANNELS]
+Q: I'm already subscribed to one of the subscriptions that have become enrolled in STARZPLAY Ultimate; how will I be billed after joining STARZPLAY Ultimate?
+A: Once you activate STARZPLAY Ultimate, we will automatically cancel any standalone subscriptions that have become enrolled in STARZPLAY Ultimate. You will only pay the STARZPLAY Ultimate fee moving forward.
+If you have subscribed to any of the same subscriptions that have become enrolled in STARZPLAY Ultimate through iTunes, you will have to unsubscribe from these subscriptions using iTunes before subscribing to STARZPLAY Ultimate to avoid double payment.
+
+[Tab: CHANNELS]
+Q: How do I cancel?
+A: Login with your existing account details and head over to Settings > Payment, where you can deactivate your account. Remember, your login details will remain valid. You are always welcome to return and reactivate your account; you'll need to enter valid payment details.
+If you subscribed using the Apple app store or Google Play, please unsubscribe via your account on the Apple app store or Google Play.
+
+[Tab: CHANNELS]
+Q: I'm already subscribed to one of the subscriptions that have become enrolled in STARZPLAY Ultimate; how will I be billed after joining STARZPLAY Ultimate?
+A: Once you activate STARZPLAY Ultimate, we will automatically cancel any standalone subscriptions that have become enrolled in STARZPLAY Ultimate. You will only pay the STARZPLAY Ultimate fee moving forward.
+If you have subscribed to any of the same subscriptions that have become enrolled in STARZPLAY Ultimate through iTunes, you will have to unsubscribe from these subscriptions using iTunes before subscribing to STARZPLAY Ultimate to avoid double payment.
+
+[Tab: CHANNELS]
+Q: What payments options can be used to subscribe to STARZPLAY sports?
+A: You can subscribe to STARZPLAY Sports using any one of the below options:
+On the website you can use credit / debit cards
+On Apple devices you can use Apple in App purchase as a payment option.
+On Android devices you can use Google in App purchase as a payment option.
+
+[Tab: CHANNELS]
+Q: I'm already subscribed to one of the channels that have become enrolled in STARZPLAY Sports; how will I be billed after joining STARZPLAY Sports?
+A: Once you activate STARZPLAY Sports, we will automatically cancel any standalone subscriptions to channels that have become enrolled in STARZPLAY Sports. You will only pay the STARZPLAY Sports fee moving forward.
+If you have subscribed to any of the same channels that have become enrolled in STARZPLAY Sports through iTunes, you will have to unsubscribe from these channels using iTunes before subscribing to STARZPLAY Sports to avoid double payment.
+
+[Tab: CHANNELS]
+Q: How do I cancel?
+A: Login with your existing account details and head over to Settings > Payment where you can deactivate your account. Remember, your login details will remain valid. You are always welcome to come back and reactivate your account, you'll need to enter valid payment details.
+If you subscribed using iTunes or Google Wallet, please unsubscribe via your account on iTunes or Google Wallet
+
+[Tab: CHANNELS]
+Q: What is STARZPLAY Sports?
+A: STARZPLAY Sports is a subscription package that will give you access to the following premium sports add-ons and channels:
+Serie A
+Coppa Italia
+GolfTV
+Cricket
+
+[Tab: CHANNELS]
+Q: How do I activate STARZPLAY Sports?
+A: Visit the STARZPLAY website or app
+Login or Signup
+Choose your subscription or go naviagate to the Sports page in the menu
+Click on the Activate button
+Enter a payment method.
+Enjoy watching
+Note: If you are already subscribed to one of the existing addons that are now part of STARZPLAY Sports, any standing discounts/promotions will be lost upon upgrading to STARZPLAY Sports and a new billing cycle will start.
+
+[Tab: CHANNELS]
+Q: How do I Sign Up?
+A: Go to starzplay.com. Click on Signup button
+Fill out the user details
+Choose your subscription
+Enter a payment method.
+Enjoy watching
+
+[Tab: CHANNELS]
+Q: If I'm subscribed to one channel can I stream content from another channel?
+A: No. You must subscribe to stream content from a channel
+
+[Tab: CHANNELS]
+Q: Are the channels subscription auto-renewable?
+A: Yes. Your preferred method of payment will be charged automatically with each billing cycle
+
+[Tab: CHANNELS]
+Q: How to deactivate a channel subscription?
+A: From Settings > Channels > Select the channel you want to deactivate and click "Deactivate subscription"
+
+[Tab: CHANNELS]
+Q: How do I browse a specific channel's content?
+A: Click on the channel you'd like to browse from channels sections on the home page
+
+[Tab: CHANNELS]
+Q: If I'm subscribed to more than one subscription will I be charged on the same day for these subscriptions?
+A: You will be charged separately for each subscription on the renewal day of that subscription
+
+[Tab: ABOUT YOUR DEVICE]
+Q: On which devices can I watch STARZPLAY?
+A: Apple mobiles and tablets - Running iOS v10.0 and later
+Apple TV 4th generation
+Android devices - Running v4.3 and later
+Android TV with Play Store Version 11.7.11-xhdpi and above
+Samsung smartTV - Running operating system Tizen (2016 models and later)
+LG Smart TV - Running WebOS4.0 and later
+Playstation PS4
+Web Browsers: Chrome, Firefox, Safari, Explorer
+Chromecast
+
+[Tab: ABOUT YOUR DEVICE]
+Q: Can I watch STARZPLAY on all Samsung smartTVs?
+A: We currently support 2016 and later models running TizenOS.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: How will I know if my internet connection is fast enough?
+A: You can check your internet speed at speedtest.net - we recommend a minimum internet speed of 0.4 Mbps.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: How do I watch on my iOS device?
+A: You will need to download the app from the App store. Here's a 3-step simple guide:
+Search for STARZPLAY on the App store
+Tap Get to download
+Click on install
+If you aren't a subscriber you'll need to sign up either through the app directly or you could log on to starzplay.com from your web browser.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: Can I limit how much data I use when watching STARZPLAY on my iOS device?
+A: You can't set a mobile data limit on STARZPLAY to a specific cap, but you can stop iOS using mobile data to watch STARZPLAY.
+Go to Settings
+Select Cellular (sometimes called Mobile)
+Switch the STARZPLAY toggle to Off
+Now STARZPLAY will only use WiFi and not mobile data to connect.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: Can I limit how much data I use when watching STARZPLAY on my Android device?
+A: Android devices will let you set an alert so you can monitor your overall data use.
+Go to Settings>Connections>Data Usage>Set Mobile Data Limit
+Click on Data Usage Cycle
+Set the cycle to match your data billing period
+Now set the limit at which you would like to receive a data usage notification
+
+[Tab: ABOUT YOUR DEVICE]
+Q: Can I watch if I connect my mobile to to my TV with an HDMI cable?
+A: We don't support HDMI cables, sorry. If you want to watch on the big screen then you can cast using AirPlay (iOS) or Chromecast - but for the best experience, try a Samsung smartTV.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: Do you support the Android TV box?
+A: We support Android TV with Play Store Version 11.7.11-xhdpi and above.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: "It appears that the device is running an unoriginal firmware (a rooted device), which is not supported by our application. Please use another device". Why am I receiving this message?
+A: This usually happens when a device is running a non-standard operating system or the firmware has been modified. If this is the case, you'll need to reset your device to factory settings to be able to run our app.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: How do I watch STARZPLAY on my Samsung SmartTV?
+A: If the app is not already preloaded, you'll need to download it.
+Press the Smart Hub button on your remote and open Apps
+Search for STARZPLAY
+Hit Enter to download
+Now just open the app, login (if you aren't subscribed yet please do this from your browser) and start streaming.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: How do I clear my Android app cache?
+A: Open Settings>Application>Application Manager>STARZPLAY>Storage. Now tap Clear Cache.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: How do I clear my browser's cache?
+A: To clear your browser cache, please follow the steps below:
+Chrome
+From the Chrome menu, select More Tools>Clear Browsing Data.
+Select the data you want to remove, and the timeframe.
+Click Clear Browsing Data.
+Safari
+From the Safari menu, select Preferences>Privacy>Remove All Website Data.
+Confirm by clicking Remove Now.
+Firefox
+From the Firefox menu, select Preferences>Advanced>Network>Cached Web Content.
+Click Clear Now.
+Internet Explorer
+From the gear icon, select Tools>Safety>Delete Browsing History.
+Uncheck Preserve Favorites and select both Temporary Internet Files and Cookies.
+Click Delete.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: How do I know which iOS version my device is running?
+A: Open Settings>General>About.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: How do I know which browser version I have?
+A: Safari
+From the Safari menu, select About Safari.
+Chrome
+From the Chrome menu, select Customize & Control Google Chrome>About Google Chrome.
+Firefox
+From the Firefox menu, select About Firefox.
+Internet Explorer:
+From the Settings menu, select About Internet Explorer.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: An error message says I've exceeded the maximum number of devices. What can I do?
+A: You can login to STARZPLAY on as many devices as you like, but as soon as you play content it will count as a registered device. You can have up to five devices registered at any time - any more and you'll see an error message. You can remove one device every 30 days.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: Why can't I find STARZPLAY on my PlayStation?
+A: STARZPLAY is currently only available on the PlayStation Store in Bahrain, Kuwait, Lebanon, Oman, Qatar, KSA and UAE, and will not be visible to PSN accounts registered outside of these countries. To view STARZPLAY, create a new PSN account for your local country and search the store again.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: How do I watch on my Android device?
+A: You will need to download the app from the Play Store. Here's a 3-step simple guide:
+Search for STARZPLAY on Play Store
+Tap download
+Click on install
+If you aren't already a subscriber you'll need to sign up either through the app directly or you could log on to starzplay.com from your web browser.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: How do I watch on my PlayStation?
+A: Make sure you are signed into your local country PSN account. From the home screen, open TV & Videos and search for STARZPLAY. As soon as the download is complete you can open the app and login or sign up.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: Which browsers can I use to watch STARZPLAY?
+A: We support Chrome, Safari, Firefox, Edge and Internet Explorer. However if you try to access STARZPLAY from a mobile browser we'll direct you to open or install the app instead.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: How often can I delete a registered device?
+A: You can have up to 5 devices registered to your account at any one time, and can remove one device every 30 days.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: I received a STARZPLAY voucher with my new Samsung smartTV. How do I use it?
+A: Switch on your Samsung smartTV and launch the STARZPLAY app. It will display a screen that gives you more details about the offer. You can sign up on from this screen, or login if you are an existing subscriber. Then just follow the onscreen instructions to activate your free subscription.
+If you would rather do this later, open Settings and select E-Voucher to continue. You can also activate the voucher directly at starzplay.com/samsung.
+
+[Tab: ABOUT YOUR DEVICE]
+Q: How do I find out which Android operating system version my device runs?
+A: Open the Settings menu
+Click on About Phone
+Click on Software Information
+Check your Android version
+
+[Tab: ABOUT YOUR DEVICE]
+Q: How do I connect a device?
+A: On mobiles, tablets, smart TVs and PlayStation, you'll need to download the STARZPLAY app in order to connect. If you want to watch on your PC or Mac then you can connect directly by typing starzplay.com into your browser.
+You can login to STARZPLAY on as many devices as you like, but as soon as you play content it will count as a registered device.
+
+[Tab: ABOUT STARZ PLAY]
+Q: How will I know when you’ve released new content?
+A: Believe us, you'll know! We'll be going on about it constantly on our social media, and if you've subscribed to our emails or push notifications then we'll be telling you about it there too. And it'll be all over our platform as well. It's everywhere!
+
+[Tab: ABOUT STARZ PLAY]
+Q: In which countries can I watch STARZPLAY?
+A: Made in MENA, for MENA, we are available to watch in: Algeria; Bahrain; Djibouti; Egypt; Iraq; Jordan; Kuwait; Lebanon; Libya; Mauritania; Morocco; Oman; Palestine; Qatar; Saudi Arabia; South Sudan; Tunisia; United Arab Emirates; Yemen.
+
+[Tab: ABOUT STARZ PLAY]
+Q: What languages does STARZPLAY offer?
+A: You're multi-lingual, as are we - so you can choose to view our platform in English, Arabic or French. Want to watch in your mother tongue? All English-language content features one-click Arabic subtitling plus Arabic and French audio options.
+
+[Tab: ABOUT STARZ PLAY]
+Q: What will I get when I subscribe to STARZPLAY?
+A: We’ve got everything you could ever want, from Hollywood movies and same-time-as-the-US series, to kids entertainment and dedicated Arabic content. We add new titles all the time, and because we're proudly 'Made in MENA' all our content has Arabic subtitling plus Arabic and French audio options. Not convinced? Then give our 7-day free trial a go!
+
+[Tab: ABOUT STARZ PLAY]
+Q: What is STARZPLAY?
+A: Proudly ‘Made in MENA’, we’re a streaming video service that always puts you first. Hollywood movies with Arabic and French subtitles and audio? Check. Same-time-as-the-US series? Yep, loads. Arabic movies and TV shows? For sure! Kids entertainment? A peace-and-quiet guaranteeing YES! We also have exclusive STARZ Original content and a brand-new STARZPLAY Original series, just for you.
+
+[Tab: ABOUT STARZ PLAY]
+Q: Does STARZPLAY stream HD and 4K content?
+A: Yep! We stream full HD as standard. We do have 4K titles but right now you can only watch these on your Samsung smartTV because we figure 4K on a mobile screen is a waste of good WiFi.
+If you own a vintage device or your internet speed has taken a beating, our superhero technology will come to the rescue by automatically pumping out a lower quality stream. But if you like buffering, you can switch this off.
+
+[Tab: ABOUT STARZ PLAY]
+Q: What can I watch on STARZPLAY?
+A: Everything you’d expect… and a lot more. We’ve got the usual suspects – Hollywood movies, same-time-as-the-US series, classic box sets, and amazing kids entertainment. We’ve also got all the Arabic content you could ever want – and if VIP is your thing, check out our exclusive STARZ Original content plus a STARZPLAY Original series. But that’s not all. Indulge your inner geek with our documentaries, brush up on your cosplay ideas with our anime, or go full-on couch potato with our cookery shows.
+
+[Tab: STREAMING]
+Q: Can I pause something on one device and resume it on another?
+A: Yep, no problem. You can play, pause, and continue watching on any other device.
+
+[Tab: STREAMING]
+Q: Can I download any title?
+A: Not all content is available for download as it is dependent on licensing agreements. If a title can be downloaded, there will be a download icon on the content details page.
+
+[Tab: STREAMING]
+Q: Can I download the same asset multiple times?
+A: Yes but if you tap the Renew icon you can extend the expiry date without needing to re-download the content. Less time downloading, more time watching!
+
+[Tab: STREAMING]
+Q: How many downloads can I have?
+A: You can store up to ten downloads at a time.
+
+[Tab: STREAMING]
+Q: Does STARZPLAY stream HD and 4K content?
+A: Yep! We stream full HD as standard. We do have 4K titles but right now you can only watch these on your Samsung smartTV because we figure 4K on a mobile screen is a waste of good WiFi.
+If you own a vintage device or your internet speed has taken a beating, our superhero technology will come to the rescue by automatically pumping out a lower quality stream. But if you like buffering, you can switch this off.
+
+[Tab: STREAMING]
+Q: On which devices can I download titles?
+A: At present you can download content to mobile and tablet devices.
+
+[Tab: STREAMING]
+Q: How do I manage my downloaded titles?
+A: Just go to My Downloads where you can see what you've downloaded, expiry dates and more.
+
+[Tab: STREAMING]
+Q: Can I reduce the size of my downloads?
+A: If space is an issue then you can download content at a lower streaming quality. Just go to Settings > Downloads > Video Download Quality to set your default.
+
+[Tab: STREAMING]
+Q: Can I stream on two devices at once?
+A: Yes - we call it double vision as you can watch two streams at any one time, as standard.
+
+[Tab: STREAMING]
+Q: Do downloads expire?
+A: Yes.
+Each download expires after 30 days, but if you want to extend this period just tap Renew.
+Note: If you watch the downloaded title, it will expire after 1 day.
+
+[Tab: STREAMING]
+Q: Do I need a high-speed internet connection?
+A: We've got some cool technology that matches streaming quality to your device capability and internet speed, so you can watch with just 0.4Mbps. But for the best viewing experience, we recommend 0.4Mbps.
+
+[Tab: STREAMING]
+Q: Do parental controls apply on downloaded titles?
+A: Yes, your selected Parental Control setting will apply to the downloaded titles.
+
+[Tab: STREAMING]
+Q: Do you release new episodes and series the same time as the US?
+A: Yes we do and it's one of the best things about working at STARZPLAY! A little explanation however… We release new content at the same time as the US but because we operate in a different timezone to the US, we often air new content on the following day. So if a new episode premieres in the US at 10pm on May 4th, it's already May 5th in MENA.
+
+[Tab: STREAMING]
+Q: What happens to my downloads if I logout or delete the app?
+A: Downloads will automatically self destruct… no no no, self DELETE… if you logout or delete the app. So beware.
+
+[Tab: STREAMING]
+Q: Is there a limit to how many devices I can watch on?
+A: You can have up to 5 devices registered to your account at any one time, and can remove/replace one device every 30 days.
+
+[Tab: STREAMING]
+Q: Can I download the same title on multiple devices?
+A: Yes you can - you can download the same title on 2 different devices
+
+[Tab: STREAMING]
+Q: How much data does streaming use?
+A: Our tech team could write pages about this but the short answer is it depends on how long the content is, and what quality stream your device is receiving. If you're worried about using too much data we suggest setting a data cap on your device or use WiFi.
+
+[Tab: STREAMING]
+Q: How do I download a title?
+A: On the content details page you'll see a download icon. Just tap this and away you go!
+
+[Tab: STREAMING]
+Q: How do I change the subtitle language while I am watching?
+A: This depends on your device. There will either be an on-screen language icon you can select, or you will need to go into the player Settings to make the change.
+
+[Tab: STREAMING]
+Q: The video player says "Sorry, unfortunately our service is not available in your country". Why?
+A: We stream content to 19 countries across the MENA region. If you are accessing our service from outside these locations, our content will not be available.
+
+[Tab: STREAMING]
+Q: Do I have to download titles on a WiFi connection only?
+A: The default setting is to download over WiFi only, but if you're rolling in data then feel free to make the change.
+
+[Tab: STREAMING]
+Q: Can I download content to an SD card?
+A: No, downloads can only be held in your device's local storage.
+
+[Tab: STREAMING]
+Q: What languages do you have?
+A: You're multi-lingual, as are we - so you can choose to view our platform in English, Arabic or French. Want to watch in your mother tongue? All English-language content features one-click Arabic subtitling plus Arabic and French audio options.
+
+[Tab: STREAMING]
+Q: Is all your content subtitled?
+A: All English-language content has Arabic subtitles which can be switched on and off as you please. Selected content is also available with optional English Closed Captions.
+
