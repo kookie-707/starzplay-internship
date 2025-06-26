@@ -1,4 +1,4 @@
-# 🔧 Project Overview
+# Project Overview
 
 ## 1. Web Scraper (FAQ Extractor)
 
@@ -41,18 +41,16 @@ I also built automated workflows using [**n8n**](https://n8n.io/) to support and
 ### Workflow 1: FAQ Knowledge Base Uploader
 Automatically detects when a new FAQ file is uploaded to **Google Drive** and embeds it into **Pinecone Vector Store**.
 
-
-
 [View the Workflow](#) *(https://khadija-17.app.n8n.cloud/workflow/45UZ0h9PVEd8pDDu)*
+![Knowledge Base Workflow](./knowledge-base-workflow.png)
 
 ---
 
 ### Workflow 2: Chatbot Q&A Engine
 Handles incoming user queries via chat, performs semantic search using OpenAI embeddings, retrieves matching answers from Pinecone, and responds via OpenAI chat model.
 
-
-
 [View the Workflow](#) *(https://khadija-17.app.n8n.cloud/workflow/zJNuokUjgYB97k3b)*
+![RAG Chatbot Workflow](./rag-chatbot-workflow.png)
 
 ---
 
