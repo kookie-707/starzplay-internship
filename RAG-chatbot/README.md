@@ -40,7 +40,7 @@ A Python-based web scraper that extracts all frequently asked questions and answ
 
 ---
 
-## Project Design Overview
+### Project Design Overview
 ![Project Design](./RAG-chatbot-project-design.png)
 
 ---
