@@ -35,7 +35,7 @@ A Python-based web scraper that extracts all frequently asked questions and answ
 - LangChain
 - SentenceTransformers
 - Pinecone
-- OpenAI Chat API (via environment variable only — no hardcoded keys)
+- OpenAI Chat API
 - Google Colab + Google Drive
 
 ---
