@@ -40,6 +40,11 @@ A Python-based web scraper that extracts all frequently asked questions and answ
 
 ---
 
+## Project Design Overview
+![Project Design](./RAG-chatbot-project-design.png)
+
+---
+
 ## n8n Workflows
 
 I also built automated workflows using [**n8n**](https://n8n.io/) to support and scale this system:
