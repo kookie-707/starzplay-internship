@@ -1,5 +1,5 @@
 # AI-Powered Metadata Keyword Generator for Movies & Series
-This project uses OpenAI GPT to generate search-optimized metadata keywords (in English and Arabic) for movie and series titles.
+This project utilises OpenAI GPT to generate search-optimised metadata keywords (in both English and Arabic) for movie and series titles.
 
 ---
 
