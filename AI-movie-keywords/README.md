@@ -18,4 +18,4 @@ This project uses Python on Google Colab
 
 ---
 ## Project Design Overview
-![Project Design](./project-design.png)
+![Project Design](./keywords-generator-design.png)
